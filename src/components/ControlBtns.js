@@ -1,5 +1,5 @@
 import '../styling/styles.css'
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import io from 'socket.io-client'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCloud, faCloudBolt, faCloudRain, faSun, faWind } from '@fortawesome/free-solid-svg-icons';
